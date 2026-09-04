@@ -1,0 +1,4 @@
+THe basic architecture:
+1)Reason about the taskl
+2)Acts on it, and rereson to check what else step is needed
+3)Generates and exit if the reason settles down that no more action is required. Or else keep reiterating till final generation

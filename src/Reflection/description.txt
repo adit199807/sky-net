@@ -1,0 +1,2 @@
+Basic description: Its has self critic agent. That will look at the final generation, critic it and revise the generation
+Steps:
